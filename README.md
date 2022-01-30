@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/ayush19283/ayush19283/blob/main/waving-wave.gif" width="29px"> this is Ayush Sharma
+### Hi there <img src="https://github.com/ayush19283/ayush19283/blob/main/waving-wave.gif" width="75px"> this is Ayush Sharma
 
 <h align="center">Pronouns: He/Him</h>
 
