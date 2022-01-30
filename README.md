@@ -1,4 +1,4 @@
-### Hi there 👋 this is Ayush Sharma
+### Hi there <img src="https://tenor.com/view/waving-wave-hand-emoji-gif-10897308" width="29px"> this is Ayush Sharma
 
 <h align="center">Pronouns: He/Him</h>
 
