@@ -1,6 +1,6 @@
 ### <p align="center"> <img src="https://github.com/ayush19283/ayush19283/blob/main/13295.gif" width="1024px"></p>
 
-### <p align="center"> Hello <img src="https://github.com/ayush19283/ayush19283/blob/main/Hi.gif" width="75px"> this is Ayush Sharma</p>
+### <p align="center"> Hello <img src="https://github.com/ayush19283/ayush19283/blob/main/Hi.gif" width="55px"> this is Ayush Sharma</p>
 
 <p align="center"><h align="center">Pronouns: He/Him</h></p>
 
