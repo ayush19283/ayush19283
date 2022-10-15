@@ -17,4 +17,5 @@
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/> </a>
   </p>
 <img src="https://github-readme-stats.vercel.app/api?username=ayush19283&show_icons=true&locale=en&theme=gotham&hide_border=true" alt="ayush19283" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush19283&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Ayush Sharma" />
 
