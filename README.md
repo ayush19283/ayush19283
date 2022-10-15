@@ -24,6 +24,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ayush19283&show_icons=true&locale=en&theme=gotham&hide_border=true" alt="ayush19283" /> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush19283&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Ayush Sharma" />
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ayush19283&bg_color=0d1117&color=00916d&line=2aa788&point=FFFFFF&hide_border=true" /></a>
-
-    </div>
+</div>
 
