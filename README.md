@@ -29,7 +29,6 @@
     
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush19283&theme=radical&hide_border=true&langs_count=10&layout=compact"/>
     
-    <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ayush19283&line=2aa788&point=FFFFFF&hide_border=true" />
-
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ankit's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=ankit404butfound&line=2aa788&point=FFFFFF&hide_border=true" /></a>
 </div>
 
