@@ -24,12 +24,12 @@
   
   
   <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ayush19283&show_icons=true&locale=en&theme=radical&hide_border=true" alt="ayush19283" />
+<img src="https://github-readme-stats.vercel.app/api?username=ayush19283&show_icons=true&locale=en&border=D3D3D3&theme=radical&hide_border=true" alt="ayush19283" />
 <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush19283&theme=radical&hide_border=true&langs_count=10&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush19283&border=D3D3D3&theme=radical&hide_border=true&langs_count=10&layout=compact"/>
 <br/><br/>
     
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush19283&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Ayush" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush19283&border=D3D3D3&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Ayush" />
     
     
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=ayush19283)
