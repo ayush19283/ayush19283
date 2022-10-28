@@ -30,7 +30,7 @@
 <br/><br/>
     
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush19283&border=D3D3D3&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="Ayush" />
-    
+<br/><br/>    
     
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=ayush19283)
 
