@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&color=68F72F&pause=800&width=485&lines=My+Name+is+Ayush+Sharma)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&color=68F72F&pause=600&width=485&lines=My+Name+is+Ayush+Sharma)](https://git.io/typing-svg)
 
 
 <h2 align="center">Pronouns: He/Him</h2>
