@@ -6,10 +6,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&color=68F72F&pause=800&width=485&lines=My+Name+is+Ayush+Sharma)](https://git.io/typing-svg)
 
+
+<h2 align="center">Pronouns: He/Him</h2>
+
 </div>
-<p align="center"><h2 align="center">Pronouns: He/Him</h2></p>
-
-
 
 - 🌱 I’m currently learning **Android Development**
 - 💬 Ask me about **Python , sql , heroku, Java, Go**
