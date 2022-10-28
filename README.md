@@ -1,8 +1,8 @@
 
 
 ## <p align="center"> Hey there! <img src="https://github.com/ayush19283/ayush19283/blob/main/Hi.gif" width="55px"></p>
-<p align="center"><h align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=My+Name+is+Ayush+Sharma)](https://git.io/typing-svg)</h></p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=My+Name+is+Ayush+Sharma)](https://git.io/typing-svg)
 
 
 <p align="center"><h align="center">Pronouns: He/Him</h></p>
