@@ -5,7 +5,7 @@
 <div align="center">
 
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calibri&size=30&color=68F72F&duration=3000&center=true&width=446&lines=My+Name+is+Ayush+Sharma.)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calibri&size=30&color=68F72F&duration=3000&center=true&width=446&lines=My+Name+is+Ayush+Sharma)
 
 
 <h2 align="center">Pronouns: He/Him</h2>
@@ -33,7 +33,7 @@
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush19283&theme=radical&langs_count=10&layout=compact"/>
 <br/><br/>
     
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush19283&border=D3D3D3&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="Ayush" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush19283&border=D3D3D3&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="Ayush Sharma" />
 <br/><br/>    
     
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=ayush19283)
