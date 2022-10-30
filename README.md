@@ -13,7 +13,7 @@
 </div>
 
 - 🌱 I’m currently learning **Kotlin**
-- 💬 Ask me about **Python , sql , heroku, Java, Go, Android Development**
+- 💬 Ask me about **Python , sql , Java, Go, Android Development**
 - ❤️ Love: Coding
 - 📫 How to reach me: ayushsharma19283@gmail.com
 
