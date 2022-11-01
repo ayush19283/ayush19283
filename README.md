@@ -1,9 +1,10 @@
 
 
-<h1 align="center">     Hey there! <img src="https://github.com/ayush19283/ayush19283/blob/main/Hi.gif" width="55px"></h1>
+
 
 <div align="center">
-
+  
+  <h1> Hey there! <img src="https://github.com/ayush19283/ayush19283/blob/main/Hi.gif" width="55px"></h1>
 
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calibri&size=30&color=68F72F&duration=3000&center=true&width=446&lines=My+Name+is+Ayush+Sharma)
 
