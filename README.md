@@ -7,6 +7,7 @@
 
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calibri&size=30&color=68F72F&duration=3000&center=true&width=446&lines=My+Name+is+Ayush+Sharma)
 
+<img src="https://komarev.com/ghpvc/?username=ayush19283&label=Profile%20views&color=0e75b6&style=flat" alt="ayush sharma" />
 
 <h2 align="center">Pronouns: He/Him</h2>
 
