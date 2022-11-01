@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Hey there! <img src="https://github.com/ayush19283/ayush19283/blob/main/Hi.gif" width="55px"></h1>
+<h1 align="center">     Hey there! <img src="https://github.com/ayush19283/ayush19283/blob/main/Hi.gif" width="55px"></h1>
 
 <div align="center">
 
