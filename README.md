@@ -30,7 +30,6 @@
 </p>
   
   
-  
   <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ayush19283&show_icons=true&locale=en&border=D3D3D3&theme=dark&hide_border=false" alt="ayush19283" />
 <br/><br/>
@@ -43,5 +42,3 @@
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=ayush19283&theme=react-dark)
 
 </div>
-
-
