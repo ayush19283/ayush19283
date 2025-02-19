@@ -20,6 +20,9 @@
 - 📫 How to reach me: ayushsharma19283@gmail.com
 
 <h3 align="center">Languages and Tools</h3>
+
+<img src="https://skillicons.dev/icons?i=fastapi,python,docker,kubernetes,aws,postgresql,redis,linux,git,github,azure,pycharm,react,bash,mysql,postman,heroku,raspberrypi,javascript,c,php,css,discord,bots,wordpress,arduino,blender&perline=18" />
+
 <p align="center">
     <a href="https://kotlinlang.org/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" width="40" height="40"/>
