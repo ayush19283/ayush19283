@@ -21,7 +21,7 @@
 
 <h3 align="center">Languages and Tools</h3>
 
-<img src="https://skillicons.dev/icons?i=fastapi,python,docker,kubernetes,aws,postgresql,redis,linux,git,github,azure,pycharm,react,bash,mysql,postman,heroku,raspberrypi,javascript,c,php,css,discord,bots,wordpress,arduino,blender&perline=18" />
+<img src="https://skillicons.dev/icons?i=kotlin,java,retrofit,sqlite,linux,git,github,androidstudio,bash,mysql,postman,raspberrypi,discord,bots,arduino,blender&perline=18" />
 
 <p align="center">
     <a href="https://kotlinlang.org/" target="_blank">
