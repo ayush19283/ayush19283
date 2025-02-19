@@ -1,7 +1,3 @@
-
-
-
-
 <div align="center">
   
   <h1> Hey there! <img src="https://github.com/ayush19283/ayush19283/blob/main/Hi.gif" width="55px"></h1>
@@ -21,7 +17,7 @@
 
 <h3 align="center">Languages and Tools</h3>
 
-<img src="https://skillicons.dev/icons?i=kotlin,java,retrofit,sqlite,linux,git,github,androidstudio,bash,mysql,postman,raspberrypi,discord,bots,arduino,blender&perline=18" />
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,sqlite,swift,xcode,linux,git,github,bash,mysql,postman,raspberrypi,discord,bots,arduino" />
 
   
   <div align="center">
