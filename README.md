@@ -14,9 +14,9 @@
 
 </div>
 
-- 🌱 I’m currently learning **Kotlin**
-- 💬 Ask me about **Python , sql , Java, Go, Android Development**
-- ❤️ Love: Coding
+- 🌱 I’m currently exploring **on-device ML , TTS integration**
+- 💬 Ask me about **Kotlin, Java, SDK, Media3, DRM, Play Billing, Architecture, SAF**
+- ❤️ Love: Coding, UX 
 - 📫 How to reach me: ayushsharma19283@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
