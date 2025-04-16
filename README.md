@@ -11,7 +11,7 @@
 </div>
 
 - 🌱 I’m currently exploring **on-device ML , TTS integration**
-- 💬 Ask me about **Android, Kotlin, Java, Android SDK, Accessibility, Media3 Exoplayer, DRM, Play Console, Layered Architecture, Offline-First, SAF**
+- 💬 Ask me about **Android, Kotlin, KMP, Java, Android SDK, Accessibility, Media3 Exoplayer, DRM, Play Console, Layered Architecture, Offline-First, SAF**
 - ❤️ Love: Coding, UX, Yoga
 - 📫 How to reach me: ayushsharma19283@gmail.com
 
