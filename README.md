@@ -11,13 +11,13 @@
 </div>
 
 - 🌱 I’m currently exploring **on-device ML , TTS integration**
-- 💬 Ask me about **Android, Kotlin, KMP, Java, Android SDK, Accessibility, Media3 Exoplayer, DRM, Play Console, Layered Architecture, Offline-First, SAF**
-- ❤️ Love: Coding, UX, Yoga
+- 💬 Ask me about **Python, Java, Kotlin, Scalable Architectures, Accessibility, Security and System Design**
+- ❤️ Love: Coding
 - 📫 How to reach me: ayushsharma19283@gmail.com
 
 <h3 align="center">Languages and Tools</h3>
 
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,sqlite,swift,linux,git,github,bash,mysql,postman,raspberrypi,discord,bots,arduino" />
+<img src="https://skillicons.dev/icons?i=python,kotlin,java,sqlite,swift,linux,git,github,bash,mysql,postman,raspberrypi,discord,bots,arduino" />
 <a href="https://www.android.com/" target="_blank"> 
   <img src="https://developer.android.com/images/brand/Android_Robot_100.png" alt="Android" width="40" height="40"/> 
 </a>
